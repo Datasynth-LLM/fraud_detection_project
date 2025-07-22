@@ -1,0 +1,20 @@
+# Core packages
+pandas
+numpy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Model saving/loading
+joblib
+
+# Web app
+streamlit
+
+# Date parsing & timezone
+python-dateutil
+
+# Optional: needed by some versions of Streamlit on Windows
+altair
