@@ -102,7 +102,7 @@ fraud_project_launcher.bat
 
 ## 👨‍💻 Author
 
-**Pixel Rider** – Data Scientist & ML Developer  
+**M Avishek** – Data Scientist & ML Developer  
 Project powered by OpenAI GPT-4 & Streamlit
 
 ---
